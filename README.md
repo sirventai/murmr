@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pablos1rvent/murmr/main/docs/assets/lockup_vertical_color.svg">
-    <img src="https://raw.githubusercontent.com/pablos1rvent/murmr/main/docs/assets/lockup_vertical_color.svg" alt="Murmr Logo" width="280">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirventai/murmr/main/docs/assets/lockup_vertical_color.svg">
+    <img src="https://raw.githubusercontent.com/sirventai/murmr/main/docs/assets/lockup_vertical_color.svg" alt="Murmr Logo" width="280">
   </picture>
 </p>
 
@@ -48,7 +48,7 @@ The Murmr ecosystem is partitioned into two decoupled, standalone open-source re
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/pablos1rvent/murmr-app">Murmr App</a></h3>
+      <h3>📱 <a href="https://github.com/sirventai/murmr-app">Murmr App</a></h3>
       <p><b>Cross-platform client application for Android, Desktop JVM (macOS, Windows, Linux), and iOS.</b></p>
       <ul>
         <li><b>UI Engine:</b> Compose Multiplatform with Material 3 design system.</li>
@@ -58,11 +58,11 @@ The Murmr ecosystem is partitioned into two decoupled, standalone open-source re
         <li><b>Privacy Tenet:</b> Zero personal data, no address book access, anonymous local UUIDs.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/pablos1rvent/murmr-app"><b>👉 View Murmr App Repository</b></a>
+        <a href="https://github.com/sirventai/murmr-app"><b>👉 View Murmr App Repository</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/pablos1rvent/murmr-relay-server">Murmr Relay Server</a></h3>
+      <h3>⚡ <a href="https://github.com/sirventai/murmr-relay-server">Murmr Relay Server</a></h3>
       <p><b>High-performance, zero-knowledge asynchronous message routing daemon.</b></p>
       <ul>
         <li><b>Engine:</b> Kotlin 2.0 with Ktor (CIO/Netty) and non-blocking coroutines.</li>
@@ -72,7 +72,7 @@ The Murmr ecosystem is partitioned into two decoupled, standalone open-source re
         <li><b>Ultra-Light Deployment:</b> Minimal Alpine container (~50 MB) using a customized JRE created via <code>jlink</code> (80–150 MB RAM).</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/pablos1rvent/murmr-relay-server"><b>👉 View Murmr Relay Server Repository</b></a>
+        <a href="https://github.com/sirventai/murmr-relay-server"><b>👉 View Murmr Relay Server Repository</b></a>
       </p>
     </td>
   </tr>
@@ -149,7 +149,7 @@ If you reference or cite Murmr in academic work, please use the following citati
   title = {Murmr: Zero-Trust End-to-End Encrypted Messaging via Acoustic Out-of-Band Key Exchange},
   institution = {Universitat Oberta de Catalunya (UOC)},
   year = {2026},
-  url = {https://github.com/pablos1rvent/murmr}
+  url = {https://github.com/sirventai/murmr}
 }
 ```
 
